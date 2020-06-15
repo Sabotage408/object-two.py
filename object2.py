@@ -16,7 +16,7 @@ subs = {
     "sandwich_seasoning":"salt_pepper_garlic_salt",
 },
 {
-    "sandwich_type":"turkey_alvacado",
+    "sandwich_type":"turkey_avacado",
     "sandwich_price":"7.00",
     "sandwich_condiments":"chipotle_sauce",
     "sandwich_seasoning":"salt_pepper_red_pepper",    
